@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T17:58:37.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="6Mt6shwXvudV2xknlNYK" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T17:58:45.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Y5LvWHJkqkyW0W7q2exD" version="24.6.3" type="github">
   <diagram name="Page-1" id="uobpP5keh15hHktpZvG5">
     <mxGraphModel dx="2309" dy="1214" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="7QSdH3X76_j9lBN3SgSZ-3" value="Login Component" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="-50" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7QSdH3X76_j9lBN3SgSZ-31" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="7QSdH3X76_j9lBN3SgSZ-4" target="7QSdH3X76_j9lBN3SgSZ-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7QSdH3X76_j9lBN3SgSZ-4" value="Login Route" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="687" y="-50" width="210" height="50" as="geometry" />
