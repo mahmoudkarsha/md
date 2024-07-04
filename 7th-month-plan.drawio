@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T10:47:20.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.6.3" etag="P1o_ccSrQMCYMV134ikI" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T11:00:32.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="OxiCw0EbK-bxBafkj4OT" version="24.6.3" type="github">
   <diagram name="Page-1" id="_Z1OYoB9vdleNzij33NP">
-    <mxGraphModel>
+    <mxGraphModel dx="1808" dy="1173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UUCdGfIrrkayGUxtcV69-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-250" width="960" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-4" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;React Hooks&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="660" y="140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-7" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;English Words&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry y="-160" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-8" value="Typing Speed " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="180" y="-160" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-14" value="FrontEnd" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="640" y="-220" width="250" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;strokeColor=#6c8ebf;" vertex="1" parent="UUCdGfIrrkayGUxtcV69-20">
+          <mxGeometry y="30" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-16" value="Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UUCdGfIrrkayGUxtcV69-20">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-17" value="Shell Commands" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;fontStyle=0" vertex="1" parent="UUCdGfIrrkayGUxtcV69-20">
+          <mxGeometry x="20" y="50" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-18" value="Active Directory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;fontStyle=0" vertex="1" parent="UUCdGfIrrkayGUxtcV69-20">
+          <mxGeometry x="20" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-19" value="Windows Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;fontStyle=0" vertex="1" parent="UUCdGfIrrkayGUxtcV69-20">
+          <mxGeometry x="20" y="210" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="90" width="250" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;strokeColor=#6c8ebf;" vertex="1" parent="UUCdGfIrrkayGUxtcV69-21">
+          <mxGeometry y="30" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-1" value="Review Javascript" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;fontStyle=0" vertex="1" parent="UUCdGfIrrkayGUxtcV69-21">
+          <mxGeometry x="20" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-2" value="DSA Javacript" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;fontStyle=0" vertex="1" parent="UUCdGfIrrkayGUxtcV69-21">
+          <mxGeometry x="20" y="50" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-12" value="Backend" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UUCdGfIrrkayGUxtcV69-21">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry y="90" width="250" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;strokeColor=#6c8ebf;" vertex="1" parent="UUCdGfIrrkayGUxtcV69-22">
+          <mxGeometry y="30" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-5" value="SQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;fontStyle=0" vertex="1" parent="UUCdGfIrrkayGUxtcV69-22">
+          <mxGeometry x="20" y="50" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-6" value="Database Engineering" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;fontStyle=0" vertex="1" parent="UUCdGfIrrkayGUxtcV69-22">
+          <mxGeometry x="20" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UUCdGfIrrkayGUxtcV69-10" value="Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UUCdGfIrrkayGUxtcV69-22">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
